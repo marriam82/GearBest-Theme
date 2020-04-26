@@ -1,0 +1,70 @@
+.r-sec-r > h1{
+    margin: 40px 0px;
+}
+
+.r-sec-r > h1 > i{
+    margin: 0px 10px 0px 0px;
+}
+
+.rs-inner-section {
+    height: 100%;
+    width: 19%;
+    display: inline-block;
+    margin: 10px 2px;
+    vertical-align: top;
+    position: relative;
+    padding:10px;
+    transition: box-shadow 1s 
+}
+
+
+.rs-inner-section > .rs-inner-img{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.rs-inner-section > .rs-inner-img img{
+    max-width: 100%;
+}
+
+.rs-inner-section > .rs-inner-img .rs-badge{
+    position: absolute;
+    top: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: #ff0000;
+    color: white;
+    border-radius: 50%;
+    padding: 8px;
+    right: 10px;
+    box-sizing: content-box;
+}
+
+.rs-inner-section > p:nth-of-type(1){
+    margin: 24px 4px 0px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.rs-inner-section > p:nth-of-type(2){
+    margin: 10px;
+    font-size: 20px;
+    color: #ff0000;
+}
+
+.rs-inner-section > p:nth-of-type(3){
+    color: #ff0000;
+    background: #ff00002f ;
+    display: inline-block;
+    padding: 0px 6px;
+}
+
+.rs-inner-section:hover{
+    box-shadow: -1px 5px 16px -3px rgba(0,0,0,0.67);
+}
+
+.rs-inner-section > p:nth-of-type(1):hover{
+    color: rgb(233, 198, 3);
+    cursor: pointer;
+}

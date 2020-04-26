@@ -1,0 +1,24 @@
+nav{
+    font-size: 14px;
+}
+.p-navbar{
+    position: relative;
+    padding: 10px 0px;
+    height: 50px;
+}
+
+.right-p-navbar{
+    position: absolute;
+    right: 20px;
+}
+
+.right-p-navbar > li {
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+.right-p-navbar > li > img{
+    transform: translateY(4px) 
+}
+
+

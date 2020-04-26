@@ -1,0 +1,142 @@
+footer#footer{
+    padding: 20px 8%;
+    width: 100% !important;
+    background-color: #FAFAFA;
+}
+
+#footer > .footer-upper {
+    height: 140px;
+    background-color: #fff;
+}
+
+#footer > .footer-upper > .footer-up-sec{
+    height: 80%;
+    width: 18%;
+    display: inline-block;
+    margin: 2% .7%;
+    vertical-align: top;
+    text-align: center;
+}
+
+#footer > .footer-upper > .foo-up-i > p:nth-of-type(1) > i{
+    font-size: 30px;
+}
+
+#footer > .footer-upper > .foo-up-i:hover > p:nth-of-type(1){
+    color: #FFDA00;
+}
+#footer > .footer-upper > .foo-up-i > p:nth-of-type(2) {
+    color: rgba(0, 0, 0, 0.288);
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+#footer > .footer-md-sec {
+    height: 80px;
+    padding: 10px 0px;
+    margin-top: 40px;
+    width: 100%;
+}
+
+#footer > .footer-md-sec > .foo-md-left{
+    width: 40%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+}
+
+#footer > .footer-md-sec > .foo-md-right{
+    width: 59%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#footer > .footer-md-sec > .foo-md-left > label{
+    position: absolute;
+    top: 25%;
+}
+
+#footer > .footer-md-sec > .foo-md-left > input{
+    height: 40px;
+    position: absolute;
+    width: 260px;
+    top: 12%;
+    left: 20%;
+    outline: none;
+    border: 1px solid #000;
+}
+
+#footer > .footer-md-sec > .foo-md-left > button{
+    position: absolute;
+    background-color: black;
+    border: none;
+    color: #fff;
+    padding: 11px 20px;
+    left: 77%;
+    top: 12%;
+}
+
+#footer > .footer-md-sec > .foo-md-right{
+    text-align: right;
+}
+
+#footer > .footer-md-sec > .foo-md-right a {
+    background-color: rgba(0, 0, 0, 0.719);
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    font-size: 18px;
+    margin: 10px 2px;
+}
+#footer > .footer-md-sec > .foo-md-right a:hover{
+    background: rgb(196, 166, 1)
+}
+
+#footer > .foo-bottom-up{
+    height: 300px;
+    margin-top: 30px;
+}
+
+#footer > .foo-bottom-up > .foo-boo-sec{
+    width: 24%;
+    display: inline-block;
+    height: 100%;
+    margin-left: .5%;
+    vertical-align: top;
+}
+
+#footer > .foo-bottom-up > .foo-boo-sec p{
+    margin-bottom: 10px;
+}
+
+#footer > .foo-bottom-up > .foo-boo-sec a{
+    display: block;
+    color: rgba(0, 0, 0, 0.363);
+    font-size: 14px;
+    margin: 4px 0px;
+}
+
+.foo-bottom-down{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.foo-bottom-down img{
+    margin: 2px 5px;
+    height: 30px;
+}
+
+.after-footer{
+    margin-top: 30px;
+    width: 100% !important;
+    background-color: black;
+    padding: 8px 0px;
+    text-align: center;
+    color: white
+}
+

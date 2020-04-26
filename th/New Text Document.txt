@@ -1,0 +1,89 @@
+  <section class="collection">
+        <h1><i class="fas fa-shopping-bag"></i> COLLECTION</h1>
+        <div id="aside-img">
+            <img src="./img/collection-1.png" alt="2">
+        </div>
+        <div class="collect-img">
+            <img src="./img/collection-2.webp" alt="2">
+            <p>Smart Ceiling Lights</p>
+            <div class="hidden-num">$39.99</div>
+        </div>
+        <div class="collect-img">
+            <img src="./img/collection-3.webp" alt="3">
+            <p>Power Tools</p>
+            <div class="hidden-num">$19.99</div>
+        </div>
+        <div class="collect-img">
+            <img src="./img/collection-4.webp" alt="4">
+            <p>INGMEGA Store</p>
+            <div class="hidden-num">$29.99</div>
+        </div>
+        <div class="collect-img">
+            <img src="./img/collection-5.webp" alt="5">
+            <p>Security & Protection </p>
+            <div class="hidden-num">$49.99</div>
+        </div>
+        <div class="collect-img">
+            <img src="./img/collection-6.webp" alt="6">
+            <p>Motor & Car Electronics</p>
+            <div class="hidden-num">$26.99</div>
+        </div>
+    </section>
+    <!-- Collection End -->
+
+
+    <!-- Super Deals  Start -->
+
+    <section class="s-deals">
+        <h1><i class="fas fa-star"></i>SUPER DEALS</h1>
+        <div class="s-outer-section">
+            <div class="s-inner-section s-side-img">
+                <img src="./img/super-1.png" alt="1">
+            </div>
+            <div class="s-inner-section s-pricing">
+                <div class="s-inner-img">
+                    <img src="./img/super-2.webp" alt="2">
+                    <div class="s-badge">70 % OFF</div>
+                </div>
+                <p>Xiaomi Wowstick 21 in 1 Precision Mini Handheld </p>
+                <p>RRP: $21.94</p>
+                <p>$15.99</p>
+            </div>
+            <div class="s-inner-section s-pricing">
+                <div class="s-inner-img">
+                    <img src="./img/super-3.webp" alt="3">
+                    <div class="s-badge">70 % OFF</div>
+                </div>
+                <p>Xiaomi Wowstick 21 in 1 Precision Mini Handheld </p>
+                <p>RRP: $21.94</p>
+                <p>$15.99</p>
+            </div>
+            <div class="s-inner-section s-pricing">
+                <div class="s-inner-img">
+                    <img src="./img/super-4.webp" alt="4">
+                    <div class="s-badge">70 % OFF</div>
+                </div>
+                <p>Xiaomi Wowstick 21 in 1 Precision Mini Handheld </p>
+                <p>RRP: $21.94</p>
+                <p>$15.99</p>
+            </div>
+            <div class="s-inner-section s-pricing">
+                <div class="s-inner-img">
+                    <img src="./img/super-5.webp" alt="5">
+                    <div class="s-badge">70 % OFF</div>
+                </div>
+                <p>Xiaomi Wowstick 21 in 1 Precision Mini Handheld </p>
+                <p>RRP: $21.94</p>
+                <p>$15.99</p>
+            </div>
+            <div class="s-inner-section s-pricing">
+                <div class="s-inner-img">
+                    <img src="./img/super-6.webp" alt="6">
+                    <div class="s-badge">70 % OFF</div>
+                </div>
+                <p>Xiaomi Wowstick 21 in 1 Precision Mini Handheld </p>
+                <p>RRP: $21.94</p>
+                <p>$15.99</p>
+            </div>
+        </div>
+    </section>

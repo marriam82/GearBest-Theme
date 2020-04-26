@@ -1,0 +1,74 @@
+
+.hot-c > h1{
+    margin: 20px 0px;
+}
+
+.hot-c > h1 > i{
+    margin: 0px 6px 0px 0px;
+}
+
+.hot-c > .hot-c-outer{
+    width: 100%;
+    height: 300px;
+}
+
+.hot-c > .hot-c-outer > .hot-c-left{
+    width: 16%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+}
+
+.hot-c > .hot-c-outer > .hot-c-right{
+    width: 83%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid rgba(0, 0, 0, 0.199);
+}
+
+.hot-c > .hot-c-outer > .hot-c-left > img{
+    height: 100%;
+    width: 100%;
+}
+.hot-c > .hot-c-outer > .hot-c-right > .hot-c-sb{
+    height: 45%;
+    width: 19%;
+    display: inline-block;
+    padding: 10px;
+    margin: 8px 3px;
+    background: #e7e7e7;
+    vertical-align: top;
+
+}
+
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-2.jpg)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-3.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-4.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-5.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-6.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-7.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-8.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-9.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-10.png)
+}
+.hot-c > .hot-c-outer > .hot-c-right 
+    background: url(./img/hot-c-11.png)
+}

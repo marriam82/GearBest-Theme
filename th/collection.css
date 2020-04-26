@@ -1,0 +1,53 @@
+.collection > h1 {
+    margin: 20px 0px;
+}
+
+.collection > h1 > i{
+    margin: 0px 6px 0px 0px;
+}
+
+#aside-img{
+    display: inline-block;
+    height: 190px;
+    width: 190px;;
+    overflow: hidden;
+    margin: 0px 2px;
+    position: relative;
+}
+
+.collection > #aside-img > img{
+    position: absolute;
+    max-height: 100%;
+}
+
+
+.collection > div.collect-img {
+    display: inline-block;
+    height: 190px;
+    width: 190px;
+    border: 1px solid rgba(0, 0, 0, 0.103);
+    overflow: hidden;
+    margin: 0px 2px;
+    position: relative;
+    text-align: center;
+}
+
+.collection > div.collect-img img {
+    max-height: 160px;
+}
+
+.collection > div.collect-img .hidden-num{
+    width: 100%;
+    background-color:#F30240;
+    font-size: 18px;
+    padding: 6px 0px;
+    color: white;
+    font-weight: bolder;
+    transform: translateY(10px);
+    transition: transform .5s ;
+}
+
+.collection > div.collect-img:hover .hidden-num{
+    transform: translateY(-32px) 
+}
+

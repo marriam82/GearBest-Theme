@@ -1,0 +1,75 @@
+.s-deals > h1{
+    margin: 20px 0px;
+}
+
+.s-deals > h1 > i{
+    margin: 0px 6px 0px 0px;
+}
+
+.s-deals > .s-outer-section{
+    height: 340px;
+    width: 100%;
+}
+
+.s-deals > .s-outer-section > .s-inner-section {
+    height: 100%;
+    width: 202px;
+    display: inline-block;
+    margin: 0px -2px;
+    vertical-align: top;
+}
+
+.s-deals > .s-outer-section > .s-pricing{
+    position: relative;
+}
+
+.s-deals > .s-outer-section > .s-pricing > .s-inner-img{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.s-deals > .s-outer-section > .s-pricing > .s-inner-img > .s-badge{
+    position: absolute;
+    top: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: #ff0000;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    right: 10px;
+    box-sizing: content-box;
+}
+
+.s-deals > .s-outer-section > .s-pricing >p:nth-of-type(1){
+    margin: 2px 4px;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.s-deals > .s-outer-section > .s-pricing >p:nth-of-type(2){
+    color: rgba(0, 0, 0, 0.459);
+    margin: 10px;
+    font-size: 15px;
+}
+.s-deals > .s-outer-section > .s-pricing >p:nth-of-type(3){
+    margin: 10px;
+    font-size: 20px;
+    color: #ff0000;
+}
+
+/* Effects Tab */
+
+.s-deals > .s-outer-section > .s-pricing > .s-inner-img img{
+    max-width: 100%;
+}
+.s-pricing{
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.144);
+}
+.s-pricing:hover{
+    box-shadow: -1px 10px 15px -3px rgba(0,0,0,0.67);
+}
+

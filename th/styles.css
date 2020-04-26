@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('./Primary-navbar.css');
+@import url('./Secondary-navbar.css');
+@import url('./header.css');
+@import url('./collection.css');
+@import url('./super-deals.css');
+@import url('./newproducts.css');
+@import url('./topbrands.css');
+@import url('./hot-c.css');
+@import url('./recommendedsec.css');
+@import url('./footer.css');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+}
+
+body  > *{
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+

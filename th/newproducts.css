@@ -1,0 +1,97 @@
+
+.n-products > h1{
+    margin: 20px 0px;
+}
+
+.n-products > h1 > i{
+    margin: 0px 6px 0px 0px;
+}
+
+.n-products > .n-product-outer{
+    width: 100%;
+    height: 300px;
+}
+
+.n-products > .n-product-outer > .n-product-left{
+    width: 36%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+    transform: scale(1.03) ;
+}
+
+.n-products > .n-product-outer > .n-product-right{
+    width: 63%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    transform: scale(1.03) translateX(20px)
+}
+
+.n-products > .n-product-outer > .n-product-left >img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.n-products > .n-product-outer > .n-product-left > div{
+    position: absolute;
+    width: 100%;
+    padding: 10px;
+    bottom: 0;
+    color: white;
+    background: rgba(0, 0, 0, 0.479);
+    z-index: 1;
+}
+
+.n-products > .n-product-outer > .n-product-right > .n-inner{
+    display: inline-block;
+    width: 24%;
+    vertical-align: top;
+    border: 1px solid rgba(0, 0, 0, 0.322);
+    height: 100%;
+    text-align: center;
+    margin-right: -4px;
+    padding: 10px;
+}
+
+.n-products > .n-product-outer > .n-product-right > .n-inner > section > img{
+    width: 100%;
+}
+
+.n-products > .n-product-outer > .n-product-right > .n-inner > section{
+    position: relative;
+}
+
+.n-products > .n-product-outer > .n-product-right > .n-inner > section > .sn-badge{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: #ff0000;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    top: 0;
+    right: 0;
+    box-sizing: content-box;
+}
+
+.n-products > .n-product-outer > .n-product-right > .n-inner  >p:nth-of-type(1){
+    color: rgba(0, 0, 0, 0.459);
+    margin: 20px 10px;
+    font-size: 15px;
+}
+.n-products > .n-product-outer > .n-product-right > .n-inner  >p:nth-of-type(2){
+    margin: 10px;
+    font-size: 20px;
+    color: #ff0000;
+}
+
+
+/* Effects Tab */
+
+
+.n-products > .n-product-outer > .n-product-right > .n-inner:hover{
+    box-shadow: -1px 10px 15px -3px rgba(0,0,0,0.67);
+}
+
